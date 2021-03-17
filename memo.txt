@@ -1,0 +1,14 @@
+XFREE
+メールアドレス：t.saki.higashinolab@gmail.com
+パスワード：いつもの
+サーバID：yluldl
+
+https://secure.xfree.ne.jp/member/?action_user_server_index=on
+
+
+FTP設定
+FTPアカウント名：cubebway.html.xdomain.jp
+パスワード：いつもの
+
+
+URL:cubebway.html.xdomain.jp
